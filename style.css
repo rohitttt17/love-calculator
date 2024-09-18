@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-image: url(https://getwallpapers.com/wallpaper/full/d/8/e/1228592-amazing-hd-hearts-wallpaper-1920x1080-macbook.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#CONTENT-BOX {
+  width: 400px;
+  height: 600px;
+  background-color: whitesmoke;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#CALCULATE {
+  width: 100px;
+  height: 30px;
+  background-color: skyblue;
+  color: white;
+  border-radius: 10px;
+}
